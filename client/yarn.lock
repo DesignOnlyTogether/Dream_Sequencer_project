@@ -9696,10 +9696,10 @@ turbo-stream@2.4.0:
   resolved "https://registry.yarnpkg.com/turbo-stream/-/turbo-stream-2.4.0.tgz#1e4fca6725e90fa14ac4adb782f2d3759a5695f0"
   integrity sha512-FHncC10WpBd2eOmGwpmQsWLDoK4cqsA/UT/GqNoaKOQnT8uzhtCbg3EoUDMvqpOSAI0S26mr0rkjzbOO6S3v1g==
 
-two.js@0.8.16:
-  version "0.8.16"
-  resolved "https://registry.yarnpkg.com/two.js/-/two.js-0.8.16.tgz#8f9dcbe33c39a64df83719bc1f802368c76e136b"
-  integrity sha512-urXwCxr7OHzAhhiiw7EVMWN7fHi7JEeOX8miE5CYvtC/dxXcFIGiVdVn+X4A+UNsq66bKzRoYmEmwkRlmtP0iw==
+two.js@0.8.17:
+  version "0.8.17"
+  resolved "https://registry.yarnpkg.com/two.js/-/two.js-0.8.17.tgz#41e5cf554d890fa9f3bc464c1bf13cbbf2cdf904"
+  integrity sha512-5jcW1lK6WIoSJ8aNG3/hu6PEAIv1KrW7eD/tlh/2k/XCXSmqLJypxRMs67DtlOKBHUqFH8Z+RZK/+MmTUbjOxQ==
 
 type-check@^0.4.0, type-check@~0.4.0:
   version "0.4.0"
