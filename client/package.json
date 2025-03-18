@@ -16,7 +16,7 @@
     "react-tsparticles": "^2.8.0",
     "sass": "1.85.1",
     "tsparticles": "^3.0.0",
-    "two.js": "0.8.16",
+    "two.js": "0.8.17",
     "typewriter-effect": "^2.19.0",
     "web-vitals": "4.2.4"
   },
