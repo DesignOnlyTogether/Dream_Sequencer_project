@@ -4341,9 +4341,9 @@ swagger-ui-dist@5.21.0:
     "@scarf/scarf" "=1.4.0"
 
 swagger-ui-dist@>=5.0.0:
-  version "5.24.0"
-  resolved "https://registry.yarnpkg.com/swagger-ui-dist/-/swagger-ui-dist-5.24.0.tgz#5c68287dac5c249a704fa27926677e6a2d1ce2a2"
-  integrity sha512-okwN8vf14TOgBTUyGgCXEAoHnrwwp/042dC00B3kPu2OAe9zD75BtSbLlgAK1Y5e3csJhs+AdnIxJYZN9uvptg==
+  version "5.24.1"
+  resolved "https://registry.yarnpkg.com/swagger-ui-dist/-/swagger-ui-dist-5.24.1.tgz#a60e518ab91a78b9682092d14bb0eeebd6707ca4"
+  integrity sha512-ITeWc7CCAfK53u8jnV39UNqStQZjSt+bVYtJHsOEL3vVj/WV9/8HmsF8Ej4oD8r+Xk1HpWyeW/t59r1QNeAcUQ==
   dependencies:
     "@scarf/scarf" "=1.4.0"
 
