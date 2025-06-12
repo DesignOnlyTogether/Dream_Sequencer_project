@@ -18,7 +18,7 @@
     "tsparticles": "^3.0.0",
     "two.js": "0.8.18",
     "typewriter-effect": "^2.19.0",
-    "web-vitals": "5.0.2"
+    "web-vitals": "5.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
