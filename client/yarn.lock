@@ -7219,9 +7219,9 @@ nth-check@^2.0.1:
     boolbase "^1.0.0"
 
 nwsapi@^2.2.0:
-  version "2.2.20"
-  resolved "https://registry.yarnpkg.com/nwsapi/-/nwsapi-2.2.20.tgz#22e53253c61e7b0e7e93cef42c891154bcca11ef"
-  integrity sha512-/ieB+mDe4MrrKMT8z+mQL8klXydZWGR5Dowt4RAGKbJ3kIGEx3X4ljUo+6V73IXtUPWgfOlU5B9MlGxFO5T+cA==
+  version "2.2.21"
+  resolved "https://registry.yarnpkg.com/nwsapi/-/nwsapi-2.2.21.tgz#8df7797079350adda208910d8c33fc4c2d7520c3"
+  integrity sha512-o6nIY3qwiSXl7/LuOU0Dmuctd34Yay0yeuZRLFmDPrrdHpXKFndPj3hM+YEPVHYC5fx2otBx4Ilc/gyYSAUaIA==
 
 object-assign@^4.0.1, object-assign@^4.1.1:
   version "4.1.1"
