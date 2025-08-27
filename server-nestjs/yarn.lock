@@ -1527,14 +1527,7 @@ cacache@^15.2.0:
     tar "^6.0.2"
     unique-filename "^1.1.1"
 
-cache-manager@*:
-  version "7.1.1"
-  resolved "https://registry.yarnpkg.com/cache-manager/-/cache-manager-7.1.1.tgz#0b231defef6ad06060ffe88b5622ae8201fb16e1"
-  integrity sha512-YZ5CXZ4cNOcVH5bokYE1Bo5NARvJhOkYAAwImGf7DozC0uyrT5Jqd5AWfPnSRavlHTPiHp2yZL3Q3ZEWBfkQvQ==
-  dependencies:
-    keyv "^5.5.0"
-
-cache-manager@7.2.0:
+cache-manager@*, cache-manager@7.2.0:
   version "7.2.0"
   resolved "https://registry.yarnpkg.com/cache-manager/-/cache-manager-7.2.0.tgz#2b29098e6d748e875bbccd148fc28639d9f5cdf8"
   integrity sha512-GRv0Ji8Xgqtrg1Mmi4ygYpIt+SOApQNjJb5+rYIl+5y3u+tyBf+Csx79LL4wQjKLio63A6x1OpuBzhMzRv9jJg==
@@ -1886,9 +1879,9 @@ cross-spawn@^7.0.6:
     which "^2.0.1"
 
 dayjs@^1.11.13:
-  version "1.11.13"
-  resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.11.13.tgz#92430b0139055c3ebb60150aa13e860a4b5a366c"
-  integrity sha512-oaMBel6gjolK862uaPQOVTA7q3TZhuSvuMQAAglQDOWYO9A91IrAOUJEyKVlqJlHE0vq5p5UXxzdPfMH/x6xNg==
+  version "1.11.14"
+  resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.11.14.tgz#aa47cd445471acac25d55deb101557dd827eff60"
+  integrity sha512-E8fIdSxUlyqSA8XYGnNa3IkIzxtEmFjI+JU/6ic0P1zmSqyL6HyG5jHnpPjRguDNiaHLpfvHKWFiohNsJLqcJQ==
 
 debug@4, debug@^4.3.1, debug@^4.3.2, debug@^4.3.3, debug@^4.3.4, debug@^4.3.5, debug@^4.4.0:
   version "4.4.1"
@@ -2009,9 +2002,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.5.204:
-  version "1.5.208"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.208.tgz#609c29502fd7257b4d721e3446f3ae391a0ca1b3"
-  integrity sha512-ozZyibehoe7tOhNaf16lKmljVf+3npZcJIEbJRVftVsmAg5TeA1mGS9dVCZzOwr2xT7xK15V0p7+GZqSPgkuPg==
+  version "1.5.209"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.209.tgz#403e7a84933b7206bb2e737d897042b2a6ef8d3e"
+  integrity sha512-Xoz0uMrim9ZETCQt8UgM5FxQF9+imA7PBpokoGcZloA1uw2LeHzTlip5cb5KOAsXZLjh/moN2vReN3ZjJmjI9A==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -2352,9 +2345,9 @@ fast-safe-stringify@2.1.1, fast-safe-stringify@^2.1.1:
   integrity sha512-W+KJc2dmILlPplD/H4K9l9LcAHAfPtP6BY84uVLXQ6Evcz9Lcg33Y2z1IVblT6xdY54PXYVHEv+0Wpq8Io6zkA==
 
 fast-uri@^3.0.1:
-  version "3.0.6"
-  resolved "https://registry.yarnpkg.com/fast-uri/-/fast-uri-3.0.6.tgz#88f130b77cfaea2378d56bf970dea21257a68748"
-  integrity sha512-Atfo14OibSv5wAp4VWNsFYE1AchQRTv9cBGWET4pZWHzYshFSS9NQI6I57rdKn9croWVMbYFbLhJ+yJvmZIIHw==
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/fast-uri/-/fast-uri-3.1.0.tgz#66eecff6c764c0df9b762e62ca7edcfb53b4edfa"
+  integrity sha512-iPeeDKJSWf4IEOasVVrknXpaBV0IApz/gp7S2bb7Z4Lljbl2MGJRqInZiUrQwV16cpzw/D3S5j5Julj/gT52AA==
 
 fastq@^1.6.0:
   version "1.19.1"
@@ -3048,9 +3041,9 @@ levn@^0.4.1:
     type-check "~0.4.0"
 
 libphonenumber-js@^1.11.1:
-  version "1.12.13"
-  resolved "https://registry.yarnpkg.com/libphonenumber-js/-/libphonenumber-js-1.12.13.tgz#cc464e2de01d754ece5435628582dacff1bdf07f"
-  integrity sha512-QZXnR/OGiDcBjF4hGk0wwVrPcZvbSSyzlvkjXv5LFfktj7O2VZDrt4Xs8SgR/vOFco+qk1i8J43ikMXZoTrtPw==
+  version "1.12.14"
+  resolved "https://registry.yarnpkg.com/libphonenumber-js/-/libphonenumber-js-1.12.14.tgz#4a49aed7b975db7f3bf0eb17dbb9d2e99d68d916"
+  integrity sha512-HBAMAV7f3yGYy7ZZN5FxQ1tXJTwC77G5/96Yn/SH/HPyKX2EMLGFuCIYUmdLU7CxxJlQcvJymP/PGLzyapurhQ==
 
 lines-and-columns@^1.1.6:
   version "1.2.4"
