@@ -1526,13 +1526,21 @@ cacache@^15.2.0:
     tar "^6.0.2"
     unique-filename "^1.1.1"
 
-cache-manager@*, cache-manager@7.2.6:
+cache-manager@*:
   version "7.2.6"
   resolved "https://registry.yarnpkg.com/cache-manager/-/cache-manager-7.2.6.tgz#0454d252fdc317012d29f42f455a0beb945ec192"
   integrity sha512-brlumw/nDaCO/AeJGoTWDNYvTRrr9y7n8o4hbE642hr6OPdnNdl2IPiq7d560iDUa9AM0Xe8CAYJPSPFEVTnDA==
   dependencies:
     "@cacheable/utils" "^2.3.2"
     keyv "5.5.4"
+
+cache-manager@7.2.7:
+  version "7.2.7"
+  resolved "https://registry.yarnpkg.com/cache-manager/-/cache-manager-7.2.7.tgz#17271c6bfd63ec6fc93dfe300882065acd29e1d8"
+  integrity sha512-TKeeb9nSybk1e9E5yAiPVJ6YKdX9FYhwqqy8fBfVKAFVTJYZUNmeIvwjURW6+UikNsO6l2ta27thYgo/oumDsw==
+  dependencies:
+    "@cacheable/utils" "^2.3.2"
+    keyv "^5.5.4"
 
 call-bind-apply-helpers@^1.0.0, call-bind-apply-helpers@^1.0.1, call-bind-apply-helpers@^1.0.2:
   version "1.0.2"
