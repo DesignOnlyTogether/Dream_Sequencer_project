@@ -9600,10 +9600,10 @@ tsutils@^3.21.0:
   dependencies:
     tslib "^1.8.1"
 
-two.js@0.8.22:
-  version "0.8.22"
-  resolved "https://registry.yarnpkg.com/two.js/-/two.js-0.8.22.tgz#b01c138e78d0505e1753e99f772ac9a5d3730484"
-  integrity sha512-7y6b5d9BWGvCQuAkD5IDsWEB/nLD0TOsxOUtxmuqQPJNTwzwslbPCedcW3spjUbEOB7/bpaxrBLgx6vR4fN3LA==
+two.js@0.8.23:
+  version "0.8.23"
+  resolved "https://registry.yarnpkg.com/two.js/-/two.js-0.8.23.tgz#54cd8e9a1fc308a6448b81b22bf06b4aba064c87"
+  integrity sha512-Yp3m4XHKI1VO7nlckRb6aVio0qjuy4hBEli8IDQst/hqL7Tg6lhKnqXQLo+27Z11FmxAykwyoPu1IpSVFmAnJQ==
 
 type-check@^0.4.0, type-check@~0.4.0:
   version "0.4.0"
