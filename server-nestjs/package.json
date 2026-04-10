@@ -23,7 +23,7 @@
     "@automapper/nestjs": "8.8.1",
     "@nestjs/axios": "4.0.1",
     "@nestjs/common": "11.1.18",
-    "@nestjs/config": "4.0.3",
+    "@nestjs/config": "4.0.4",
     "@nestjs/core": "11.1.18",
     "@nestjs/event-emitter": "3.0.1",
     "@nestjs/mapped-types": "2.1.1",
@@ -54,7 +54,7 @@
     "winston": "3.19.0"
   },
   "devDependencies": {
-    "@nestjs/cli": "11.0.18",
+    "@nestjs/cli": "11.0.19",
     "@nestjs/schematics": "11.0.10",
     "@types/cache-manager": "5.0.0",
     "@types/cron": "2.4.3",
